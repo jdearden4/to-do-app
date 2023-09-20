@@ -4,5 +4,7 @@ A super simple To-Do application that allows users to input a task they want to 
 
 
 
-https://github.com/jdearden4/to-do-app/assets/32437792/600cb70e-3101-408c-8e3c-0fb7d54ddea8
+
+https://github.com/jdearden4/to-do-app/assets/32437792/2d4174b8-3f2c-439f-b306-15fe51f5e21d
+
 
